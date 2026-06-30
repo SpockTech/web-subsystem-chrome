@@ -13,5 +13,9 @@ You can download the official HTML files for the OS here.
 2. Click the `Download ZIP` button\
    <img width="152" height="23" alt="Screen" src="https://github.com/user-attachments/assets/91504042-e44d-444e-9ca4-378aa2b7b4b6" />
 
-   If you prefer the comand line, you can use the code
-   ``
+   If you prefer the comand line, you can use the code `gh repo clone SpockTech/web-subsystem-chrome`
+
+4. Extract the files to a folder
+5. Run `main.html` and enjoy!
+
+---
