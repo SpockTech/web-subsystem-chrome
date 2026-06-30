@@ -5,4 +5,13 @@ Web Subsystem for Chrome or WSC is an operating system simulation that runs enti
 ---
 
 ## Download
-You can download the official HTML files for the OS here. To
+You can download the official HTML files for the OS here.
+
+**Download steps:**\
+1. Click the `<> Code` button\
+   <img width="164" height="57" alt="Code-button" src="https://github.com/user-attachments/assets/fa8b30ed-0c2a-49d1-b4bc-0abaa9e9e42d" />
+2. Click the `Download ZIP` button\
+   <img width="152" height="23" alt="Screen" src="https://github.com/user-attachments/assets/91504042-e44d-444e-9ca4-378aa2b7b4b6" />
+
+   If you prefer the comand line, you can use the code
+   ``
